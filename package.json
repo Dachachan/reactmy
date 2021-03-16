@@ -16,7 +16,8 @@
     "react-bootstrap": "^1.5.1",
     "react-dom": "^15.4.2",
     "react-icons": "^4.2.0",
-    "unsplash-js": "^4.6.0"
+    "unsplash-js": "^4.6.0",
+    "nodemon":"^2.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
